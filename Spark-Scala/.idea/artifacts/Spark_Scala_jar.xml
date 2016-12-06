@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spark-Scala:jar">
+    <output-path>I:/ip_time_data</output-path>
+    <root id="archive" name="Spark-Scala.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="I:/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Spark-Scala" />
+    </root>
+  </artifact>
+</component>

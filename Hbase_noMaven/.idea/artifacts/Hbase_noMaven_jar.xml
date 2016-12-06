@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hbase_noMaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hbase_noMaven_jar</output-path>
+    <root id="archive" name="Hbase_noMaven.jar">
+      <element id="module-output" name="Hbase_noMaven" />
+    </root>
+  </artifact>
+</component>
