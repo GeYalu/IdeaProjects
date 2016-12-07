@@ -40,7 +40,7 @@ object json_12306 {
 
     resultsDF.groupBy("city").count().show(50)*/
 
-  val resu = spark.sql("select  data.datas[0].station_train_code as train_no from output limit 10")
+  val resu = spark.sql("select data.datas[0].station_train_code as train_no from output limit 10")
 
   resu.show()
   resu.toDF()

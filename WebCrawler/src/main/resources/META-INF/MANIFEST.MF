@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: MutilThreadGetJson.TestThread
+Main-Class: Crawler_12306.Crawl_all.MutilThread
 
